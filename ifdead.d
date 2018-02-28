@@ -1,0 +1,1 @@
+ifdead.o: ifdead.S

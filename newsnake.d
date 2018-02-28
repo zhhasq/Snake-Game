@@ -1,0 +1,1 @@
+newsnake.o: newsnake.S

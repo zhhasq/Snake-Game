@@ -1,0 +1,1 @@
+shit.o: shit.S
